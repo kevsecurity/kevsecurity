@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevsecurity
 - 👀 I’m interested in eBPF
-- 📫 How to reach me - kev [at symbol] isovalent.com
+- 📫 How to reach me - kevs [at symbol] cisco.com
 
 <!---
 kevsecurity/kevsecurity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
